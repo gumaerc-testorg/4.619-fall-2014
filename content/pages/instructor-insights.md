@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8c48d304-636f-b8ee-4b1c-f64610ce9e15
 ---
@@ -37,20 +39,6 @@ H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
 ### Offered
 
 Every other fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with windows, a chalkboard and chairs placed around a rectangular seminar table.]({{< resource_file 3d228ec3-8e88-f6fd-9d5c-cd97c6afc9d1 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    The classroom had a capacity of 18 with an LCD screen and moveable chairs placed around a seminar table.
-    
 
 Student Information
 -------------------
