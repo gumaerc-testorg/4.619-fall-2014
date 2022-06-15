@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides a course overview and information on meeting times,
+  prerequisites, grading, and the schedule of lecture topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: cb54abf3-a53a-7efd-5b58-48eb85f09374
 ---

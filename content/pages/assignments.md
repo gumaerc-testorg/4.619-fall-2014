@@ -1,9 +1,11 @@
 ---
 content_type: page
+description: This section provides descriptions of the weekly reading and occasional
+  writing assignments, a description of the research paper assignment, and suggested
+  research topics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 84eb361f-f753-85b3-1730-9b1c8f6f042c
 ---
