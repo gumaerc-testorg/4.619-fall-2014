@@ -7,6 +7,7 @@ file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/82413ac0b7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Assignment 2
 uid: 82413ac0-b791-c7d8-e424-c61da4847cc8
 ---
 Instructions for an assignment to choose one of the early scholars of Islamic architecture (19th century to 1945), and write a Wikipedia-like entry about her/him.
-

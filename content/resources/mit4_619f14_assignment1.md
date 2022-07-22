@@ -6,6 +6,7 @@ file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/8a50191713
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 1
 uid: 8a501917-1327-c7e4-8dd7-e1e0930bb373
 ---
 Instructions for an assignment to prepare,present, explain, and analyze a statement that captures the viewpoints of an author on Islamic architecture.
-

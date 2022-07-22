@@ -7,6 +7,7 @@ file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/d6628c4da5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Assignment 4
 uid: d6628c4d-a5d2-a699-3f23-b9c12a6943f9
 ---
 Instructions for an assignment to choose a canonical example of Islamic architecture, present it in class for 5 minutes, and explain why it is a representative example of its architectural tradition
-
