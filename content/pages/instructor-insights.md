@@ -1,19 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8c48d304-636f-b8ee-4b1c-f64610ce9e15
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _4.619 Historiography of Islamic Architecture_ as it was taught by Professor Nasser Rabbat in Fall 2014.
 
 This seminar presented a critical review of literature on Islamic architecture in the last two centuries and analyzed its historical and theoretical frameworks. It challenged the tacit assumptions and biases of standard studies of Islamic architecture and addressed historiographic and critical questions concerning how knowledge of a field is defined, produced, and reproduced.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -23,8 +25,7 @@ This course included weekly reading and writing assignments and required active 
 
 Many students will continue to take more historiographic courses after completing this one. Most students who took this course were [SMArchS](http://architecture.mit.edu/computation/degree/smarchs) or PhD students focusing on the history, theory, and criticism of architecture. These students were usually preparing for a career in academe.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -38,24 +39,11 @@ H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
 
 Every other fall semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
+## Student Information
 
-The Classroom
--------------
+### Enrollment
 
-*   ![Classroom with windows, a chalkboard and chairs placed around a rectangular seminar table.]({{< resource_file 3d228ec3-8e88-f6fd-9d5c-cd97c6afc9d1 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    The classroom had a capacity of 18 with an LCD screen and moveable chairs placed around a seminar table.
-    
-
-Student Information
--------------------
-
-![10 students took this course when it was offered in Fall 2014.]({{< resource_file bf6efa3a-fa71-0917-424d-39be4585924f >}})
+10 students
 
 ### Breakdown by Year
 
@@ -63,7 +51,7 @@ All of the students in this course were graduate students.
 
 ### Breakdown by Major
 
-1/2 were [SMArchS](http://architecture.mit.edu/computation/degree/smarchs) students in the [Aga Khan Program](https://architecture.mit.edu/history-theory-and-criticism/program/aga-khan-program-islamic-architecture), 1/3 were PhD students in the [HTC Program](http://architecture.mit.edu/history-theory-and-criticism/program/overview), and one student was in the [ACT Program](http://act.mit.edu/). All of these programs are at the department of architecture.
+1/2 were [SMArchS](http://architecture.mit.edu/computation/degree/smarchs) students in the [Aga Khan Program](https://architecture.mit.edu/history-theory-and-criticism/program/aga-khan-program-islamic-architecture), 1/3 were PhD students in the [HTC Program](http://architecture.mit.edu/history-theory-and-criticism/program/overview), and one student was in the [ACT Program](http://act.mit.edu/). All of these programs are at the Department of Architecture.
 
 ### Typical Student Background
 
@@ -71,17 +59,14 @@ Most students that took the class had a professional architectural degree alread
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 1 time per week for 3 hours per session; 13 sessions total.
 
-Out of Class
-------------
+### Out of Class
 
 Students spent time outside of class working on short presentations and the final research paper.

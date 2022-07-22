@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a course overview and information on meeting times,
+  prerequisites, grading, and the schedule of lecture topics and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: cb54abf3-a53a-7efd-5b58-48eb85f09374
 ---
@@ -27,8 +31,8 @@ This course requires:
 *   Weekly reading and occasional writing assignments
 *   Preparation of and participation in discussions
 *   A 15 to 20-page research paper. Students are to select their topics in consultation with instructor. Topics may be in-depth studies of texts, representations, architectural project, or scholarly traditions within the field of Islamic art and architecture.
-    *   Abstracts and preliminary bibliography are due by the end of the 4th week.
-    *   Students will present their paper proposals, introductions, and / or research ideas in class on the 6th week. This will give them a chance to test their ideas before writing the final paper.
+    *   Abstracts and preliminary bibliography are due by the end of the 4{{< sup "th" >}} week.
+    *   Students will present their paper proposals, introductions, and / or research ideas in class on the 6{{< sup "th" >}} week. This will give them a chance to test their ideas before writing the final paper.
     *   The final papers will be presented in class during the last two sessions and then submitted at the end of the term.
 
 Calendar

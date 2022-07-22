@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of suggested texts for the course, a background
+  text, and the schedule of readings by topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fe41f5fe-5037-511d-053d-3e9e859ccef5
 ---
@@ -42,7 +47,7 @@ READINGS
 Overview and Class Structure
 {{< tdclose >}}
 {{< tdopen >}}
-Rabbat, Nasser. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Islamic Architecture as a Field of Historical Inquiry," (PDF)](http://arthistoriography.files.wordpress.com/2012/06/rabbatdoc.pdf) _AD Architectural Design_ 74, no. 6 (2004): 18–23. \[Special Issue Islam+Architecture republished in Journal of Art Historiography, no. 7.\]
+Rabbat, Nasser. ["Islamic Architecture as a Field of Historical Inquiry," (PDF)](http://arthistoriography.files.wordpress.com/2012/06/rabbatdoc.pdf) _AD Architectural Design_ 74, no. 6 (2004): 18–23. \[Special Issue Islam+Architecture republished in Journal of Art Historiography, no. 7.\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +66,7 @@ Hillenbrand, Robert. "[Studying Islamic Architecture: Challenges and Perspective
 
 Blair, Sheila S., and Jonathan M. Bloom. "[The Mirage of Islamic Art: Reflections on the Study of an Unwieldy Field](http://www.jstor.org/stable/3177331)." _The Art Bulletin_ 85, no. 1 (2003): 152–84.
 
-Necipoğlu, Gülru. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Concept of Islamic Art: Inherited Discourses and New Approaches" (PDF - 3.5MB)](https://arthistoriography.files.wordpress.com/2012/05/necipogludoc.pdf), no. 6 \[Special issue, "Islamic art historiography"\] originally published in Junod, Benoît, Georges Khalil, et al, eds. _Islamic Art and the Museum: Approaches to Art and Archeology of the Muslim World in the Twenty-First Century_. Saqi Books, 2013, pp. 57–76. ISBN: 9780863564130.
+Necipoğlu, Gülru. ["The Concept of Islamic Art: Inherited Discourses and New Approaches" (PDF - 3.5MB)](https://arthistoriography.files.wordpress.com/2012/05/necipogludoc.pdf), no. 6 \[Special issue, "Islamic art historiography"\] originally published in Junod, Benoît, Georges Khalil, et al, eds. _Islamic Art and the Museum: Approaches to Art and Archeology of the Muslim World in the Twenty-First Century_. Saqi Books, 2013, pp. 57–76. ISBN: 9780863564130.
 
 ### Background Reading
 
@@ -183,7 +188,7 @@ The "Islamic" Galleries at the Metropolitan Museum of Art
 
 Coombes, Annie. "Inventing the 'Postcolonial:' Hybridity and Constituency in Contemporary Curating." In _The Art of Art History: A Critical Anthology_. Edited by Donald Preziosi. Oxford University Press, 1998, pp. 486–97.
 
-Shalem, Avinoam. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What do We Mean When We Say 'Islamic art'? A Plea for a Critical Rewriting of the History of the Arts of Islam"(PDF)](https://arthistoriography.files.wordpress.com/2012/05/shalem.pdf) _Journal of Art Historiography_, no. 6 (2012). \[Special issue "Islamic Art Historiography"\]
+Shalem, Avinoam. ["What do We Mean When We Say 'Islamic art'? A Plea for a Critical Rewriting of the History of the Arts of Islam"(PDF)](https://arthistoriography.files.wordpress.com/2012/05/shalem.pdf) _Journal of Art Historiography_, no. 6 (2012). \[Special issue "Islamic Art Historiography"\]
 
 ### Reviews of the Galleries
 
@@ -214,11 +219,11 @@ Baydar, Gülsüm. "[Toward Postcolonial Openings: Rereading Sir Banister Fletche
 
 Flood, Finbarr Barry. "From the Prophet to Postmodernism? New World Orders and the end of Islamic Art." In _Making Art History: A Changing Discipline and Its Institutions_. Edited by Elizabeth Mansfield. Routledge, 2007, pp. 31–53. ISBN: 9780415372343.
 
-Shaw, Wendy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Islam in Islamic Art History: Secularism and Public Discourse." (PDF)](https://arthistoriography.files.wordpress.com/2012/05/shaw1.pdf) _Journal of Art Historiography_, no. 6 (2012). \[Special issue, "Islamic Art Historiography"\]
+Shaw, Wendy. ["The Islam in Islamic Art History: Secularism and Public Discourse." (PDF)](https://arthistoriography.files.wordpress.com/2012/05/shaw1.pdf) _Journal of Art Historiography_, no. 6 (2012). \[Special issue, "Islamic Art Historiography"\]
 
-Graves, Margaret S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Feeling Uncomfortable in the Nineteenth Century." (PDF)](http://arthistoriography.files.wordpress.com/2012/05/graves.pdf) _Journal of Art Histiography_, no. 6 (2012).
+Graves, Margaret S. ["Feeling Uncomfortable in the Nineteenth Century." (PDF)](http://arthistoriography.files.wordpress.com/2012/05/graves.pdf) _Journal of Art Histiography_, no. 6 (2012).
 
-Keshani, Hussein. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Towards Digital Islamic Art History" (PDF)](http://arthistoriography.files.wordpress.com/2012/05/keshani.pdf) _Journal of Art Histiography_, no. 6 (2012).
+Keshani, Hussein. ["Towards Digital Islamic Art History" (PDF)](http://arthistoriography.files.wordpress.com/2012/05/keshani.pdf) _Journal of Art Histiography_, no. 6 (2012).
 
 
 {{< tdclose >}}

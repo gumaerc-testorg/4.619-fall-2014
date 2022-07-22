@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides descriptions of the weekly reading and occasional
+  writing assignments, a description of the research paper assignment, and suggested
+  research topics.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 84eb361f-f753-85b3-1730-9b1c8f6f042c
 ---
@@ -34,7 +40,7 @@ Choose an Islamic art object from any museum with which you are familiar, descri
 Research Paper
 --------------
 
-A 15 to 20-page research paper is also required. Students are to select their topics in consultation with instructor. Topics may be in-depth studies of texts, representations, architectural project, or scholarly traditions within the field of Islamic art and architecture. Abstracts and preliminary bibliography are due by the end of the 4th week. Students will present their paper proposals, introductions, and / or research ideas in class on the 6th week. This will give them a chance to test their ideas before writing the final paper. The final papers will be presented in class during the last two sessions and then submitted at the end of the term.
+A 15 to 20-page research paper is also required. Students are to select their topics in consultation with instructor. Topics may be in-depth studies of texts, representations, architectural project, or scholarly traditions within the field of Islamic art and architecture. Abstracts and preliminary bibliography are due by the end of the 4{{< sup "th" >}} week. Students will present their paper proposals, introductions, and / or research ideas in class on the 6{{< sup "th" >}} week. This will give them a chance to test their ideas before writing the final paper. The final papers will be presented in class during the last two sessions and then submitted at the end of the term.
 
 Suggested Research Topics
 -------------------------
