@@ -11,7 +11,7 @@ uid: 8c48d304-636f-b8ee-4b1c-f64610ce9e15
 ---
 ## Course Overview
 
-This page focuses on the course _4.619 Historiography of Islamic Architecture_ as it was taught by Professor Nasser Rabbat in Fall 2014.
+This page focuses on the course *4.619 Historiography of Islamic Architecture* as it was taught by Professor Nasser Rabbat in Fall 2014.
 
 This seminar presented a critical review of literature on Islamic architecture in the last two centuries and analyzed its historical and theoretical frameworks. It challenged the tacit assumptions and biases of standard studies of Islamic architecture and addressed historiographic and critical questions concerning how knowledge of a field is defined, produced, and reproduced.
 
@@ -51,7 +51,7 @@ All of the students in this course were graduate students.
 
 ### Breakdown by Major
 
-1/2 were [SMArchS](http://architecture.mit.edu/computation/degree/smarchs) students in the [Aga Khan Program](https://architecture.mit.edu/history-theory-and-criticism/program/aga-khan-program-islamic-architecture), 1/3 were PhD students in the [HTC Program](http://architecture.mit.edu/history-theory-and-criticism/program/overview), and one student was in the [ACT Program](http://act.mit.edu/). All of these programs are at the Department of Architecture.
+1/2 were [SMArchS](https://architecture.mit.edu/graduate-programs#smarchs) students in the [Aga Khan Program](https://architecture.mit.edu/history-theory-and-criticism/program/aga-khan-program-islamic-architecture), 1/3 were PhD students in the [HTC Program](https://architecture.mit.edu/history-theory-criticism), and one student was in the [ACT Program](http://act.mit.edu/). All of these programs are at the Department of Architecture.
 
 ### Typical Student Background
 
