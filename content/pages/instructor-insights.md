@@ -51,7 +51,7 @@ All of the students in this course were graduate students.
 
 ### Breakdown by Major
 
-1/2 were [SMArchS](https://architecture.mit.edu/graduate-programs#smarchs) students in the [Aga Khan Program](https://architecture.mit.edu/history-theory-and-criticism/program/aga-khan-program-islamic-architecture), 1/3 were PhD students in the [HTC Program](https://architecture.mit.edu/history-theory-criticism), and one student was in the [ACT Program](http://act.mit.edu/). All of these programs are at the Department of Architecture.
+1/2 were [SMArchS](https://architecture.mit.edu/graduate-programs#smarchs) students in the [Aga Khan Program](https://architecture.mit.edu/aga-khan-program-islamic-architecture), 1/3 were PhD students in the [HTC Program](https://architecture.mit.edu/history-theory-criticism), and one student was in the [ACT Program](http://act.mit.edu/). All of these programs are at the Department of Architecture.
 
 ### Typical Student Background
 
