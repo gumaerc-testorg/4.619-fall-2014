@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of the classroom used for the course.
-file: /ol-ocw-studio-app/courses/4-619-historiography-of-islamic-architecture-fall-2014/3d228ec38e88f6fd9d5ccd97c6afc9d1_4-619_classroom-1.jpg
+file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/3d228ec38e88f6fd9d5ccd97c6afc9d1_4-619_classroom-1.jpg
 file_size: 58629
 file_type: image/jpeg
 image_metadata:
