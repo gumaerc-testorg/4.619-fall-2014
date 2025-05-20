@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for an assignment to prepare,present, explain, and analyze
   a statement that captures the viewpoints of an author on Islamic architecture.
-file: /ol-ocw-studio-app/courses/4-619-historiography-of-islamic-architecture-fall-2014/8a5019171327c7e48dd7e1e0930bb373_MIT4_619F14_assignment1.pdf
+file: /courses/4-619-historiography-of-islamic-architecture-fall-2014/8a5019171327c7e48dd7e1e0930bb373_MIT4_619F14_assignment1.pdf
 file_size: 138923
 file_type: application/pdf
 learning_resource_types:
