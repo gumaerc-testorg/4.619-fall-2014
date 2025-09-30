@@ -23,7 +23,7 @@ This course included weekly reading and writing assignments and required active 
 
 ### Possibilities for Further Study/Careers
 
-Many students will continue to take more historiographic courses after completing this one. Most students who took this course were [SMArchS](http://architecture.mit.edu/computation/degree/smarchs) or PhD students focusing on the history, theory, and criticism of architecture. These students were usually preparing for a career in academe.
+Many students will continue to take more historiographic courses after completing this one. Most students who took this course were {{% resource_link "8ee0f7e2-b0a0-4bca-942e-bca191dded62" "SMArchS" %}} or PhD students focusing on the history, theory, and criticism of architecture. These students were usually preparing for a career in academe.
 
 ## Curriculum Information
 
@@ -51,7 +51,7 @@ All of the students in this course were graduate students.
 
 ### Breakdown by Major
 
-1/2 were [SMArchS](https://architecture.mit.edu/graduate-programs#smarchs) students in the [Aga Khan Program](https://architecture.mit.edu/aga-khan-program-islamic-architecture), 1/3 were PhD students in the [HTC Program](https://architecture.mit.edu/history-theory-criticism), and one student was in the [ACT Program](http://act.mit.edu/). All of these programs are at the Department of Architecture.
+1/2 were {{% resource_link "bf7cfcb7-e6c4-4545-bd03-b0ebbccf9171" "SMArchS" %}} students in the {{% resource_link "e4e0a20b-5379-4944-9bb7-9c51581da33c" "Aga Khan Program" %}}, 1/3 were PhD students in the {{% resource_link "deb7a0be-1fd1-4d00-aea7-379099310863" "HTC Program" %}}, and one student was in the {{% resource_link "3a1d9a30-d145-4439-a748-eb606e77f15a" "ACT Program" %}}. All of these programs are at the Department of Architecture.
 
 ### Typical Student Background
 
